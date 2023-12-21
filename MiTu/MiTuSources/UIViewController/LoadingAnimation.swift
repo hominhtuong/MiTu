@@ -10,29 +10,33 @@ import UIKit
 
 public extension UIViewController {
     func showLoading(color: UIColor = UIColor.purple, style: UIActivityIndicatorView.Style = .large, backgroundColor: UIColor = .clear, containerColor: UIColor = .clear, containerRadius: CGFloat = 8, containerWidth: CGFloat = 66) {
-        self.hideLoading()
-        
-        let indicatorView = IndicatorView()
-        indicatorView >>> self.view >>> {
-            $0.snp.makeConstraints {
-                $0.top.leading.trailing.bottom.equalToSuperview()
+        Queue.main {
+            self.hideLoading()
+            
+            let indicatorView = IndicatorView()
+            indicatorView >>> self.view >>> {
+                $0.snp.makeConstraints {
+                    $0.top.leading.trailing.bottom.equalToSuperview()
+                }
+                $0.backgroundColor = backgroundColor
+                $0.containerColor = containerColor
+                $0.containerRadius = containerRadius
+                $0.containerWidth = containerWidth
+                $0.style = style
+                $0.color = color
+                $0.startAnimating()
             }
-            $0.backgroundColor = backgroundColor
-            $0.containerColor = containerColor
-            $0.containerRadius = containerRadius
-            $0.containerWidth = containerWidth
-            $0.style = style
-            $0.color = color
-            $0.startAnimating()
+            self.view.bringSubviewToFront(indicatorView)
         }
-        self.view.bringSubviewToFront(indicatorView)
     }
     
     func hideLoading() {
-        self.view.subviews.filter{$0 is IndicatorView}.forEach {
-            guard let indicatorView = $0 as? IndicatorView else {return}
-            indicatorView.stopAnimating()
-            indicatorView.removeFromSuperview()
+        Queue.main {
+            self.view.subviews.filter{$0 is IndicatorView}.forEach {
+                guard let indicatorView = $0 as? IndicatorView else {return}
+                indicatorView.stopAnimating()
+                indicatorView.removeFromSuperview()
+            }
         }
     }
 }

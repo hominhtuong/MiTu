@@ -118,6 +118,12 @@ public extension UIViewController {
     @objc func dismissKeyboard() {
         view.endEditing(true)
     }
+    
+    func hideKeyboardWhenTappedAround() {
+        let tap = UITapGestureRecognizer(target: self, action: #selector(UIViewController.dismissKeyboard))
+        tap.cancelsTouchesInView = false
+        view.addGestureRecognizer(tap)
+    }
 }
 
 public extension UIViewController {
@@ -130,7 +136,7 @@ public extension UIViewController {
             completion(child.view)
         }
     }
-
+    
     func remove() {
         guard parent != nil else {
             return
@@ -173,7 +179,7 @@ extension UIViewController: MFMailComposeViewControllerDelegate {
             if let subject = subject {
                 mail.setSubject(subject)
             }
-
+            
             present(mail, animated: true)
         } else {
             print("Cannot open Email")
@@ -226,36 +232,36 @@ extension UIViewController: UNUserNotificationCenterDelegate {
     public func sendNotification(title: String, subtitle: String, body: String, timeInterval: TimeInterval, repeats: Bool, requestIdentifier: String, completionHandler: ((Error?, String?) -> Void)? = nil) {
         let center = UNUserNotificationCenter.current()
         center.getPendingNotificationRequests(completionHandler: { pendingNotificationRequests in
-
+            
             //Use the main thread since we want to access UIApplication.shared.applicationIconBadgeNumber
             DispatchQueue.main.sync {
-
+                
                 //Create the new content
                 let content = UNMutableNotificationContent()
                 content.title = title
                 content.subtitle = subtitle
                 content.body = body
-
+                
                 //Let's store the firing date of this notification in content.userInfo
                 let firingDate = Date().timeIntervalSince1970 + timeInterval
                 content.userInfo = ["timeInterval": firingDate]
-
+                
                 //get the count of pending notification that will be fired earlier than this one
                 let earlierNotificationsCount: Int = pendingNotificationRequests.filter { request in
-
+                    
                     let userInfo = request.content.userInfo
                     if let time = userInfo["timeInterval"] as? Double {
                         if time < firingDate {
                             return true
                         } else {
-
+                            
                             //Here we update the notofication that have been created earlier, BUT have a later firing date
                             let newContent: UNMutableNotificationContent = request.content.mutableCopy() as! UNMutableNotificationContent
                             newContent.badge = (Int(truncating: request.content.badge ?? 0) + 1) as NSNumber
                             let newRequest: UNNotificationRequest =
-                                UNNotificationRequest(identifier: request.identifier,
-                                                      content: newContent,
-                                                      trigger: request.trigger)
+                            UNNotificationRequest(identifier: request.identifier,
+                                                  content: newContent,
+                                                  trigger: request.trigger)
                             center.add(newRequest, withCompletionHandler: { (error) in
                                 // Handle error
                             })
@@ -264,15 +270,15 @@ extension UIViewController: UNUserNotificationCenterDelegate {
                     }
                     return false
                 }.count
-
+                
                 //Set the badge
                 content.badge =  NSNumber(integerLiteral: UIApplication.shared.applicationIconBadgeNumber + earlierNotificationsCount + 1)
                 let trigger = UNTimeIntervalNotificationTrigger(timeInterval: timeInterval,
                                                                 repeats: repeats)
-
+                
                 let request = UNNotificationRequest(identifier: requestIdentifier,
                                                     content: content, trigger: trigger)
-
+                
                 center.add(request, withCompletionHandler: { error in
                     if let block = completionHandler {
                         block(error, requestIdentifier)

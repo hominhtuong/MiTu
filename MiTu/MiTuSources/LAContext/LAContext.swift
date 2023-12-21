@@ -12,6 +12,7 @@ public extension LAContext {
         case none
         case touchID
         case faceID
+        case opticID
     }
 
     var biometricType: BiometricType {
@@ -28,6 +29,8 @@ public extension LAContext {
             return .touchID
         case .faceID:
             return .faceID
+        case .opticID:
+            return .opticID
         @unknown default:
             print("OMG!")
         }

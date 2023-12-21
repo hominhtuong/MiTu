@@ -22,7 +22,7 @@ public class PHAssetManager {
             configs.phFetchOptions = newValue
         }
     }
-
+    
     public var imageRequestOptions: PHImageRequestOptions {
         get {
             configs.imageRequestOptions
@@ -31,7 +31,7 @@ public class PHAssetManager {
             configs.imageRequestOptions = newValue
         }
     }
-
+    
     public var targetSize: CGSize {
         get {
             configs.targetSize
@@ -137,23 +137,44 @@ public extension PHAssetManager {
         })
     }
     
-    func requestVideoData(for asset: PHAsset, completion: @escaping(Data?) -> Void) {
+    func requestVideoData(for asset: PHAsset, completion: @escaping(Data?, Error?) -> Void) {
         PHImageManager.default().requestAVAsset(forVideo: asset, options: self.videoRequestOptions, resultHandler: { avasset, _, _ in
             if let avuAsset = avasset as? AVURLAsset {
                 do {
-                    let data = try Data(contentsOf: avuAsset.url)
-                    completion(data)
+                    completion(try Data(contentsOf: avuAsset.url), nil)
                 } catch {
                     print(error.localizedDescription)
-                    completion(nil)
+                    completion(nil, error)
                     return
                 }
             } else {
-                print("cannot conver asset to avurlAsset")
-                completion(nil)
+                print("cannot convert asset to avurlAsset")
+                completion(nil, MTError(title: "Something went wrong", description: "cannot convert asset to avurlAsset", code: -1))
                 return
             }
         })
+    }
+    
+    func requestVideoData(for asset: PHAsset) async -> Data? {
+        do {
+            return try await withCheckedThrowingContinuation { continuation in
+                PHImageManager.default().requestAVAsset(forVideo: asset, options: self.videoRequestOptions, resultHandler: { avasset, _, _ in
+                    if let avuAsset = avasset as? AVURLAsset {
+                        do {
+                            continuation.resume(returning: try Data(contentsOf: avuAsset.url))
+                        }
+                        catch {
+                            continuation.resume(throwing: error)
+                        }
+                    } else {
+                        continuation.resume(throwing: MTError(title: "Something went wrong", description: "cannot convert asset to avurlAsset", code: -1))
+                    }
+                })
+            }
+        }
+        catch {
+            return nil
+        }
     }
     
     func requestAVAsset(for asset: PHAsset, completion: @escaping(AVAsset?, AVAudioMix?, [AnyHashable : Any]?) -> Void) {
@@ -175,7 +196,7 @@ public extension PHAssetManager {
     }
 }
 
-public extension PHAssetManager {    
+public extension PHAssetManager {
     private func getLocalImage(id: String, size: CGSize) -> PHImage? {
         if let phImage = self.storedPHImages.first(where: {$0.asset.localIdentifier == id}) {
             if phImage.image.size.width >= size.width || phImage.image.size.height >= size.height {

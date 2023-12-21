@@ -64,6 +64,20 @@ public extension String {
     func trimming() -> String {
         return self.trimmingCharacters(in: .whitespacesAndNewlines)
     }
+    
+    var isCurrency: Bool {
+        let digitsCharacters = CharacterSet(charactersIn: "0123456789.")
+        return CharacterSet(charactersIn: self).isSubset(of: digitsCharacters)
+    }
+    
+    var flag: String {
+        let base : UInt32 = 127397
+        var s = ""
+        for v in self.unicodeScalars {
+            s.unicodeScalars.append(UnicodeScalar(base + v.value)!)
+        }
+        return String(s)
+    }
 }
 
 
@@ -195,6 +209,14 @@ public extension NSMutableAttributedString {
         
         self.append(NSAttributedString(string: value, attributes:attributes))
         return self
+    }
+}
+
+//MARK: URL
+public extension String {
+    func removeExtension() -> String? {
+        let components = self.components(separatedBy: ".")
+        return components.first
     }
 }
 

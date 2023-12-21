@@ -29,7 +29,7 @@ public extension UIDevice {
     
     var totalDiskSpaceInBytes: Int64 {
         guard let systemAttributes = try? FileManager.default.attributesOfFileSystem(forPath: NSHomeDirectory() as String),
-            let space = (systemAttributes[FileAttributeKey.systemSize] as? NSNumber)?.int64Value else { return 0 }
+              let space = (systemAttributes[FileAttributeKey.systemSize] as? NSNumber)?.int64Value else { return 0 }
         return space
     }
     
@@ -47,7 +47,7 @@ public extension UIDevice {
 }
 
 public extension UIDevice {
-
+    
     static let modelName: String = {
         var systemInfo = utsname()
         uname(&systemInfo)
@@ -56,9 +56,8 @@ public extension UIDevice {
             guard let value = element.value as? Int8, value != 0 else { return identifier }
             return identifier + String(UnicodeScalar(UInt8(value)))
         }
-
+        
         func mapToDevice(identifier: String) -> String { // swiftlint:disable:this cyclomatic_complexity
-            #if os(iOS)
             switch identifier {
             case "iPod5,1":                                       return "iPod touch (5th generation)"
             case "iPod7,1":                                       return "iPod touch (6th generation)"
@@ -95,6 +94,10 @@ public extension UIDevice {
             case "iPhone14,8":                                    return "iPhone 14 Plus"
             case "iPhone15,2":                                    return "iPhone 14 Pro"
             case "iPhone15,3":                                    return "iPhone 14 Pro Max"
+            case "iPhone15,4":                                    return "iPhone 15"
+            case "iPhone15,5":                                    return "iPhone 15 Plus"
+            case "iPhone16,1":                                    return "iPhone 15 Pro"
+            case "iPhone16,2":                                    return "iPhone 15 Pro Max"
             case "iPhone8,4":                                     return "iPhone SE"
             case "iPhone12,8":                                    return "iPhone SE (2nd generation)"
             case "iPhone14,6":                                    return "iPhone SE (3rd generation)"
@@ -106,6 +109,7 @@ public extension UIDevice {
             case "iPad7,11", "iPad7,12":                          return "iPad (7th generation)"
             case "iPad11,6", "iPad11,7":                          return "iPad (8th generation)"
             case "iPad12,1", "iPad12,2":                          return "iPad (9th generation)"
+            case "iPad13,18", "iPad13,19":                        return "iPad (10th generation)"
             case "iPad4,1", "iPad4,2", "iPad4,3":                 return "iPad Air"
             case "iPad5,3", "iPad5,4":                            return "iPad Air 2"
             case "iPad11,3", "iPad11,4":                          return "iPad Air (3rd generation)"
@@ -122,11 +126,13 @@ public extension UIDevice {
             case "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":      return "iPad Pro (11-inch) (1st generation)"
             case "iPad8,9", "iPad8,10":                           return "iPad Pro (11-inch) (2nd generation)"
             case "iPad13,4", "iPad13,5", "iPad13,6", "iPad13,7":  return "iPad Pro (11-inch) (3rd generation)"
+            case "iPad14,3", "iPad14,4":                          return "iPad Pro (11-inch) (4th generation)"
             case "iPad6,7", "iPad6,8":                            return "iPad Pro (12.9-inch) (1st generation)"
             case "iPad7,1", "iPad7,2":                            return "iPad Pro (12.9-inch) (2nd generation)"
             case "iPad8,5", "iPad8,6", "iPad8,7", "iPad8,8":      return "iPad Pro (12.9-inch) (3rd generation)"
             case "iPad8,11", "iPad8,12":                          return "iPad Pro (12.9-inch) (4th generation)"
             case "iPad13,8", "iPad13,9", "iPad13,10", "iPad13,11":return "iPad Pro (12.9-inch) (5th generation)"
+            case "iPad14,5", "iPad14,6":                          return "iPad Pro (12.9-inch) (6th generation)"
             case "AppleTV5,3":                                    return "Apple TV"
             case "AppleTV6,2":                                    return "Apple TV 4K"
             case "AudioAccessory1,1":                             return "HomePod"
@@ -134,19 +140,11 @@ public extension UIDevice {
             case "i386", "x86_64", "arm64":                       return "Simulator \(mapToDevice(identifier: ProcessInfo().environment["SIMULATOR_MODEL_IDENTIFIER"] ?? "iOS"))"
             default:                                              return identifier
             }
-            #elseif os(tvOS)
-            switch identifier {
-            case "AppleTV5,3": return "Apple TV 4"
-            case "AppleTV6,2": return "Apple TV 4K"
-            case "i386", "x86_64": return "Simulator \(mapToDevice(identifier: ProcessInfo().environment["SIMULATOR_MODEL_IDENTIFIER"] ?? "tvOS"))"
-            default: return identifier
-            }
-            #endif
         }
-
+        
         return mapToDevice(identifier: identifier)
     }()
-
+    
 }
 
 extension UIDevice {
