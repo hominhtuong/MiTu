@@ -24,7 +24,7 @@ Once you have your Swift package set up, adding AlamofireImage as a dependency i
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/hominhtuong/MiTu.git", .upToNextMajor(from: "1.0.3"))
+    .package(url: "https://github.com/hominhtuong/MiTu.git", .upToNextMajor(from: "1.0.4"))
 ]
 ```
 

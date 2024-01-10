@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 	spec.name         = "MiTu"
-	spec.version      = "1.0.3"
+	spec.version      = "1.0.4"
 	spec.summary      = "Extension some class for coding"
 	spec.swift_version = ['5.1', '5.2', '5.3', '5.4', '5.5', '5.6', '5.7', '5.8', '5.9']
   
@@ -20,6 +20,6 @@ Pod::Spec.new do |spec|
 	spec.frameworks   = 'UIKit', 'Foundation'
 
 	spec.source       = { :git => "https://github.com/hominhtuong/MiTu.git", :tag => "#{spec.version}" }
-	spec.source_files  = 'Sources/MiTu/**/*.swift'
+	spec.source_files  = 'Sources/**/*.swift'
 
 end

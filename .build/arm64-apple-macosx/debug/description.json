@@ -23,351 +23,351 @@
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/API/MTAPI.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/API/MTAPI.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/ATAccessoryView/ATAccessoryView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/ATAccessoryView/ATAccessoryView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Array/MTArray.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Array/MTArray.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Bundle/Bundle.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Bundle/Bundle.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Closure/ClosureSleeve.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Closure/ClosureSleeve.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/CollectionView/MTCollectionView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/CollectionView/MTCollectionView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Combine/Publishers.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Combine/Publishers.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/CryptoSwift/CryptoSwiftExt.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/CryptoSwift/CryptoSwiftExt.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Date/MTDate.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Date/MTDate.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Error/MTError.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Error/MTError.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Global/Global.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Global/Global.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/ImagePicker/ImagePicker.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/ImagePicker/ImagePicker.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/LAContext/LAContext.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/LAContext/LAContext.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Label/UILabel.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Label/UILabel.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/LoadingLabel/LoadingLabel.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/LoadingLabel/LoadingLabel.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Log/Log.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Log/Log.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradient.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradient.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientButton.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientButton.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientLabel.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientLabel.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTPageControl/ATPageControl.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MTPageControl/ATPageControl.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTProgressView/MTProgressView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MTProgressView/MTProgressView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MiTu.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/NSObject/MTObject.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/NSObject/MTObject.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Number/MTNumber.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Number/MTNumber.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Operators/MTOperators.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Operators/MTOperators.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHAssetConfig.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHAssetConfig.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHAssetManager.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHAssetManager.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHImage.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHImage.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Photos/MTAsset.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Photos/MTAsset.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Route/MTRoute.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Route/MTRoute.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Constraint.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Constraint.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintAttributes.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintAttributes.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintConfig.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintConfig.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintConstantTarget.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintConstantTarget.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDSL.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDSL.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDescription.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDescription.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDirectionalInsetTarget.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDirectionalInsetTarget.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDirectionalInsets.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDirectionalInsets.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintInsetTarget.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintInsetTarget.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintInsets.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintInsets.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintItem.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintItem.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuide+Extensions.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuide+Extensions.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuide.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuide.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuideDSL.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuideDSL.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutSupport.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutSupport.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutSupportDSL.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutSupportDSL.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMaker.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMaker.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerEditable.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerEditable.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerExtendable.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerExtendable.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerFinalizable.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerFinalizable.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerPrioritizable.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerPrioritizable.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerRelatable+Extensions.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerRelatable+Extensions.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerRelatable.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerRelatable.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMultiplierTarget.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMultiplierTarget.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintOffsetTarget.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintOffsetTarget.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintPriority.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintPriority.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintPriorityTarget.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintPriorityTarget.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintRelatableTarget.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintRelatableTarget.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintRelation.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintRelation.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintView+Extensions.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintView+Extensions.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintViewDSL.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintViewDSL.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Debugging.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Debugging.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/LayoutConstraint.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/LayoutConstraint.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/LayoutConstraintItem.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/LayoutConstraintItem.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Typealiases.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Typealiases.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/UILayoutSupport+Extensions.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/UILayoutSupport+Extensions.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/String/MTString.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/String/MTString.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TableView/MTTableView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/TableView/MTTableView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextField/MTTextField.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/TextField/MTTextField.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextField/TTextField.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/TextField/TTextField.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextLink/MTTextLink.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/TextLink/MTTextLink.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextView/MTTextView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/TextView/MTTextView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Thread/Queue.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Thread/Queue.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Thread/Thread.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/Thread/Thread.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIApplication/MTApplication.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIApplication/MTApplication.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIColor/MTColor.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIColor/MTColor.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIControl/MTControl.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIControl/MTControl.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIDevice/MTDevice.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIDevice/MTDevice.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIImage/MTImage.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIImage/MTImage.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UINavigationController/MTNavigationController.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UINavigationController/MTNavigationController.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UISearchBar/UISearchBar.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UISearchBar/UISearchBar.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIView/MTView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIView/MTView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIViewController/LoadingAnimation.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIViewController/LoadingAnimation.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIViewController/MTViewController.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIViewController/MTViewController.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIimageView/UIImageView.swift"
+          "name" : "/Users/minhtuong/Documents/MT/MiTu/Sources/UIimageView/UIImageView.swift"
         }
       ],
       "isLibrary" : true,
@@ -860,93 +860,93 @@
         }
       ],
       "sources" : [
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/API/MTAPI.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/ATAccessoryView/ATAccessoryView.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Array/MTArray.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Bundle/Bundle.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Closure/ClosureSleeve.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/CollectionView/MTCollectionView.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Combine/Publishers.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/CryptoSwift/CryptoSwiftExt.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Date/MTDate.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Error/MTError.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Global/Global.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/ImagePicker/ImagePicker.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/LAContext/LAContext.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Label/UILabel.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/LoadingLabel/LoadingLabel.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Log/Log.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradient.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientButton.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientLabel.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientView.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTPageControl/ATPageControl.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTProgressView/MTProgressView.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MiTu.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/NSObject/MTObject.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Number/MTNumber.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Operators/MTOperators.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHAssetConfig.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHAssetManager.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHImage.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Photos/MTAsset.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Route/MTRoute.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Constraint.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintAttributes.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintConfig.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintConstantTarget.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDSL.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDescription.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDirectionalInsetTarget.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDirectionalInsets.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintInsetTarget.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintInsets.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintItem.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuide+Extensions.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuide.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuideDSL.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutSupport.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutSupportDSL.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMaker.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerEditable.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerExtendable.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerFinalizable.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerPrioritizable.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerRelatable+Extensions.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerRelatable.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMultiplierTarget.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintOffsetTarget.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintPriority.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintPriorityTarget.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintRelatableTarget.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintRelation.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintView+Extensions.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintView.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintViewDSL.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Debugging.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/LayoutConstraint.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/LayoutConstraintItem.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Typealiases.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/UILayoutSupport+Extensions.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/String/MTString.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TableView/MTTableView.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextField/MTTextField.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextField/TTextField.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextLink/MTTextLink.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextView/MTTextView.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Thread/Queue.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Thread/Thread.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIApplication/MTApplication.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIColor/MTColor.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIControl/MTControl.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIDevice/MTDevice.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIImage/MTImage.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UINavigationController/MTNavigationController.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UISearchBar/UISearchBar.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIView/MTView.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIViewController/LoadingAnimation.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIViewController/MTViewController.swift",
-        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIimageView/UIImageView.swift"
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/API/MTAPI.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/ATAccessoryView/ATAccessoryView.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Array/MTArray.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Bundle/Bundle.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Closure/ClosureSleeve.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/CollectionView/MTCollectionView.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Combine/Publishers.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/CryptoSwift/CryptoSwiftExt.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Date/MTDate.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Error/MTError.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Global/Global.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/ImagePicker/ImagePicker.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/LAContext/LAContext.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Label/UILabel.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/LoadingLabel/LoadingLabel.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Log/Log.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradient.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientButton.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientLabel.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientView.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/MTPageControl/ATPageControl.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/MTProgressView/MTProgressView.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/NSObject/MTObject.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Number/MTNumber.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Operators/MTOperators.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHAssetConfig.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHAssetManager.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHImage.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Photos/MTAsset.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Route/MTRoute.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Constraint.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintAttributes.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintConfig.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintConstantTarget.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDSL.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDescription.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDirectionalInsetTarget.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDirectionalInsets.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintInsetTarget.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintInsets.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintItem.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuide+Extensions.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuide.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuideDSL.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutSupport.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutSupportDSL.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMaker.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerEditable.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerExtendable.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerFinalizable.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerPrioritizable.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerRelatable+Extensions.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerRelatable.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMultiplierTarget.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintOffsetTarget.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintPriority.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintPriorityTarget.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintRelatableTarget.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintRelation.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintView+Extensions.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintView.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintViewDSL.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Debugging.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/LayoutConstraint.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/LayoutConstraintItem.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Typealiases.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/UILayoutSupport+Extensions.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/String/MTString.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/TableView/MTTableView.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/TextField/MTTextField.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/TextField/TTextField.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/TextLink/MTTextLink.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/TextView/MTTextView.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Thread/Queue.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/Thread/Thread.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIApplication/MTApplication.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIColor/MTColor.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIControl/MTControl.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIDevice/MTDevice.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIImage/MTImage.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UINavigationController/MTNavigationController.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UISearchBar/UISearchBar.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIView/MTView.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIViewController/LoadingAnimation.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIViewController/MTViewController.swift",
+        "/Users/minhtuong/Documents/MT/MiTu/Sources/UIimageView/UIImageView.swift"
       ],
       "tempsPath" : "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build",
       "wholeModuleOptimization" : false
@@ -964,93 +964,93 @@
       "mitu",
       "-incremental",
       "-c",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/API/MTAPI.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/ATAccessoryView/ATAccessoryView.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Array/MTArray.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Bundle/Bundle.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Closure/ClosureSleeve.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/CollectionView/MTCollectionView.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Combine/Publishers.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/CryptoSwift/CryptoSwiftExt.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Date/MTDate.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Error/MTError.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Global/Global.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/ImagePicker/ImagePicker.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/LAContext/LAContext.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Label/UILabel.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/LoadingLabel/LoadingLabel.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Log/Log.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradient.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientButton.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientLabel.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientView.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTPageControl/ATPageControl.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTProgressView/MTProgressView.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MiTu.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/NSObject/MTObject.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Number/MTNumber.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Operators/MTOperators.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHAssetConfig.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHAssetManager.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHImage.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Photos/MTAsset.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Route/MTRoute.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Constraint.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintAttributes.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintConfig.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintConstantTarget.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDSL.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDescription.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDirectionalInsetTarget.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDirectionalInsets.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintInsetTarget.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintInsets.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintItem.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuide+Extensions.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuide.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuideDSL.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutSupport.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutSupportDSL.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMaker.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerEditable.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerExtendable.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerFinalizable.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerPrioritizable.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerRelatable+Extensions.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerRelatable.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMultiplierTarget.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintOffsetTarget.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintPriority.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintPriorityTarget.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintRelatableTarget.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintRelation.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintView+Extensions.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintView.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintViewDSL.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Debugging.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/LayoutConstraint.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/LayoutConstraintItem.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Typealiases.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/UILayoutSupport+Extensions.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/String/MTString.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TableView/MTTableView.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextField/MTTextField.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextField/TTextField.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextLink/MTTextLink.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextView/MTTextView.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Thread/Queue.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Thread/Thread.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIApplication/MTApplication.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIColor/MTColor.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIControl/MTControl.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIDevice/MTDevice.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIImage/MTImage.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UINavigationController/MTNavigationController.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UISearchBar/UISearchBar.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIView/MTView.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIViewController/LoadingAnimation.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIViewController/MTViewController.swift",
-      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIimageView/UIImageView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/API/MTAPI.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/ATAccessoryView/ATAccessoryView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Array/MTArray.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Bundle/Bundle.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Closure/ClosureSleeve.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/CollectionView/MTCollectionView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Combine/Publishers.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/CryptoSwift/CryptoSwiftExt.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Date/MTDate.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Error/MTError.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Global/Global.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/ImagePicker/ImagePicker.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/LAContext/LAContext.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Label/UILabel.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/LoadingLabel/LoadingLabel.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Log/Log.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradient.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientButton.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientLabel.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/MTGradient/MTGradientView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/MTPageControl/ATPageControl.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/MTProgressView/MTProgressView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/NSObject/MTObject.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Number/MTNumber.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Operators/MTOperators.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHAssetConfig.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHAssetManager.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/PHAsset/PHImage.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Photos/MTAsset.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Route/MTRoute.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Constraint.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintAttributes.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintConfig.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintConstantTarget.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDSL.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDescription.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDirectionalInsetTarget.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintDirectionalInsets.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintInsetTarget.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintInsets.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintItem.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuide+Extensions.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuide.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutGuideDSL.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutSupport.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintLayoutSupportDSL.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMaker.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerEditable.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerExtendable.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerFinalizable.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerPrioritizable.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerRelatable+Extensions.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMakerRelatable.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintMultiplierTarget.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintOffsetTarget.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintPriority.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintPriorityTarget.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintRelatableTarget.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintRelation.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintView+Extensions.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/ConstraintViewDSL.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Debugging.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/LayoutConstraint.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/LayoutConstraintItem.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/Typealiases.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/SnapKitSources/UILayoutSupport+Extensions.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/String/MTString.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/TableView/MTTableView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/TextField/MTTextField.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/TextField/TTextField.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/TextLink/MTTextLink.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/TextView/MTTextView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Thread/Queue.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/Thread/Thread.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIApplication/MTApplication.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIColor/MTColor.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIControl/MTControl.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIDevice/MTDevice.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIImage/MTImage.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UINavigationController/MTNavigationController.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UISearchBar/UISearchBar.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIView/MTView.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIViewController/LoadingAnimation.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIViewController/MTViewController.swift",
+      "/Users/minhtuong/Documents/MT/MiTu/Sources/UIimageView/UIImageView.swift",
       "-I",
       "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug",
       "-target",
