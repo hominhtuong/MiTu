@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
 	spec.name         = "MiTu"
-	spec.version      = "1.0.2"
+	spec.version      = "1.0.3"
 	spec.summary      = "Extension some class for coding"
-	spec.swift_version = ['5.1', '5.2', '5.3', '5.4', '5.5', '5.6', '5.7']
+	spec.swift_version = ['5.1', '5.2', '5.3', '5.4', '5.5', '5.6', '5.7', '5.8', '5.9']
   
 	spec.description  = <<-DESC
 	This CocoaPods library is software development kit for iOS
@@ -20,6 +20,6 @@ Pod::Spec.new do |spec|
 	spec.frameworks   = 'UIKit', 'Foundation'
 
 	spec.source       = { :git => "https://github.com/hominhtuong/MiTu.git", :tag => "#{spec.version}" }
-	spec.source_files  = 'MiTu/MiTuSources/**/*.swift', 'MiTu/SnapKitSources/*.swift', 'MTSDK/CryptoSources/**/*.swift'
+	spec.source_files  = 'Sources/MiTu/**/*.swift'
 
 end

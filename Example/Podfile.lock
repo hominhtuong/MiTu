@@ -1,0 +1,16 @@
+PODS:
+  - MiTu (1.0.3)
+
+DEPENDENCIES:
+  - MiTu (from `../`)
+
+EXTERNAL SOURCES:
+  MiTu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MiTu: ed79af55c4bf734549b7b58b6113b741bdaea337
+
+PODFILE CHECKSUM: 86daf6071a859e6398849e459ecbb42b73a595bd
+
+COCOAPODS: 1.14.3

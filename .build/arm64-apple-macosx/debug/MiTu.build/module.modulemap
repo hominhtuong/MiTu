@@ -1,0 +1,4 @@
+module MiTu {
+    header "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MiTu-Swift.h"
+    requires objc
+}

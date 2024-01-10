@@ -1,0 +1,527 @@
+{
+  "": {
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/master.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/API/MTAPI.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/API/MTAPI.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/API/MTAPI.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/API/MTAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/API/MTAPI.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/ATAccessoryView/ATAccessoryView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/ATAccessoryView/ATAccessoryView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/ATAccessoryView/ATAccessoryView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/ATAccessoryView/ATAccessoryView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/ATAccessoryView/ATAccessoryView.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Array/MTArray.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Array/MTArray.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Array/MTArray.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Array/MTArray~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Array/MTArray.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Bundle/Bundle.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Bundle/Bundle.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Bundle/Bundle.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Bundle/Bundle~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Bundle/Bundle.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Closure/ClosureSleeve.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Closure/ClosureSleeve.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Closure/ClosureSleeve.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Closure/ClosureSleeve~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Closure/ClosureSleeve.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/CollectionView/MTCollectionView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/CollectionView/MTCollectionView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/CollectionView/MTCollectionView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/CollectionView/MTCollectionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/CollectionView/MTCollectionView.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Combine/Publishers.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Combine/Publishers.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Combine/Publishers.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Combine/Publishers~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Combine/Publishers.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/CryptoSwift/CryptoSwiftExt.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/CryptoSwift/CryptoSwiftExt.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/CryptoSwift/CryptoSwiftExt.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/CryptoSwift/CryptoSwiftExt~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/CryptoSwift/CryptoSwiftExt.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Date/MTDate.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Date/MTDate.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Date/MTDate.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Date/MTDate~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Date/MTDate.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Error/MTError.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Error/MTError.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Error/MTError.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Error/MTError~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Error/MTError.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Global/Global.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Global/Global.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Global/Global.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Global/Global~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Global/Global.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/ImagePicker/ImagePicker.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/ImagePicker/ImagePicker.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/ImagePicker/ImagePicker.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/ImagePicker/ImagePicker~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/ImagePicker/ImagePicker.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/LAContext/LAContext.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/LAContext/LAContext.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/LAContext/LAContext.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/LAContext/LAContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/LAContext/LAContext.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Label/UILabel.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Label/UILabel.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Label/UILabel.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Label/UILabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Label/UILabel.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/LoadingLabel/LoadingLabel.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/LoadingLabel/LoadingLabel.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/LoadingLabel/LoadingLabel.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/LoadingLabel/LoadingLabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/LoadingLabel/LoadingLabel.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Log/Log.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Log/Log.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Log/Log.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Log/Log~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Log/Log.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradient.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradient.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradient.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradient~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradient.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientButton.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientButton.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientButton.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientButton.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientLabel.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientLabel.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientLabel.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientLabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientLabel.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTGradient/MTGradientView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTGradient/MTGradientView.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTPageControl/ATPageControl.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTPageControl/ATPageControl.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTPageControl/ATPageControl.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTPageControl/ATPageControl~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTPageControl/ATPageControl.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MTProgressView/MTProgressView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTProgressView/MTProgressView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTProgressView/MTProgressView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTProgressView/MTProgressView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MTProgressView/MTProgressView.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/MiTu.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MiTu.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MiTu.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MiTu~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/MiTu.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/NSObject/MTObject.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/NSObject/MTObject.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/NSObject/MTObject.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/NSObject/MTObject~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/NSObject/MTObject.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Number/MTNumber.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Number/MTNumber.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Number/MTNumber.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Number/MTNumber~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Number/MTNumber.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Operators/MTOperators.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Operators/MTOperators.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Operators/MTOperators.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Operators/MTOperators~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Operators/MTOperators.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHAssetConfig.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHAssetConfig.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHAssetConfig.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHAssetConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHAssetConfig.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHAssetManager.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHAssetManager.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHAssetManager.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHAssetManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHAssetManager.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/PHAsset/PHImage.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHImage.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHImage.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHImage~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/PHAsset/PHImage.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Photos/MTAsset.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Photos/MTAsset.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Photos/MTAsset.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Photos/MTAsset~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Photos/MTAsset.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Route/MTRoute.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Route/MTRoute.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Route/MTRoute.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Route/MTRoute~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Route/MTRoute.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Constraint.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Constraint.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Constraint.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Constraint~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Constraint.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintAttributes.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintAttributes.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintAttributes.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintAttributes~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintAttributes.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintConfig.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintConfig.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintConfig.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintConfig.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintConstantTarget.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintConstantTarget.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintConstantTarget.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintConstantTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintConstantTarget.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDSL.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDSL.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDSL.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDSL.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDescription.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDescription.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDescription.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDescription~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDescription.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDirectionalInsetTarget.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDirectionalInsetTarget.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDirectionalInsetTarget.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDirectionalInsetTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDirectionalInsetTarget.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintDirectionalInsets.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDirectionalInsets.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDirectionalInsets.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDirectionalInsets~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintDirectionalInsets.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintInsetTarget.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintInsetTarget.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintInsetTarget.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintInsetTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintInsetTarget.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintInsets.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintInsets.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintInsets.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintInsets~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintInsets.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintItem.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintItem.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintItem.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintItem.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuide+Extensions.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuide+Extensions.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuide+Extensions.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuide+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuide+Extensions.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuide.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuide.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuide.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuide~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuide.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutGuideDSL.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuideDSL.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuideDSL.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuideDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutGuideDSL.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutSupport.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutSupport.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutSupport.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutSupport.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintLayoutSupportDSL.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutSupportDSL.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutSupportDSL.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutSupportDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintLayoutSupportDSL.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMaker.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMaker.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMaker.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMaker~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMaker.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerEditable.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerEditable.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerEditable.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerEditable~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerEditable.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerExtendable.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerExtendable.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerExtendable.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerExtendable~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerExtendable.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerFinalizable.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerFinalizable.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerFinalizable.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerFinalizable~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerFinalizable.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerPrioritizable.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerPrioritizable.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerPrioritizable.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerPrioritizable~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerPrioritizable.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerRelatable+Extensions.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerRelatable+Extensions.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerRelatable+Extensions.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerRelatable+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerRelatable+Extensions.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMakerRelatable.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerRelatable.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerRelatable.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerRelatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMakerRelatable.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintMultiplierTarget.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMultiplierTarget.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMultiplierTarget.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMultiplierTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintMultiplierTarget.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintOffsetTarget.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintOffsetTarget.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintOffsetTarget.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintOffsetTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintOffsetTarget.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintPriority.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintPriority.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintPriority.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintPriority~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintPriority.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintPriorityTarget.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintPriorityTarget.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintPriorityTarget.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintPriorityTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintPriorityTarget.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintRelatableTarget.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintRelatableTarget.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintRelatableTarget.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintRelatableTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintRelatableTarget.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintRelation.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintRelation.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintRelation.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintRelation~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintRelation.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintView+Extensions.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintView+Extensions.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintView+Extensions.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintView+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintView+Extensions.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintView.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/ConstraintViewDSL.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintViewDSL.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintViewDSL.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintViewDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/ConstraintViewDSL.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Debugging.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Debugging.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Debugging.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Debugging~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Debugging.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/LayoutConstraint.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/LayoutConstraint.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/LayoutConstraint.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/LayoutConstraint~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/LayoutConstraint.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/LayoutConstraintItem.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/LayoutConstraintItem.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/LayoutConstraintItem.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/LayoutConstraintItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/LayoutConstraintItem.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/Typealiases.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Typealiases.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Typealiases.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Typealiases~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/Typealiases.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/SnapKitSources/UILayoutSupport+Extensions.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/UILayoutSupport+Extensions.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/UILayoutSupport+Extensions.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/UILayoutSupport+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/SnapKitSources/UILayoutSupport+Extensions.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/String/MTString.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/String/MTString.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/String/MTString.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/String/MTString~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/String/MTString.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TableView/MTTableView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TableView/MTTableView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TableView/MTTableView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TableView/MTTableView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TableView/MTTableView.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextField/MTTextField.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextField/MTTextField.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextField/MTTextField.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextField/MTTextField~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextField/MTTextField.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextField/TTextField.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextField/TTextField.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextField/TTextField.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextField/TTextField~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextField/TTextField.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextLink/MTTextLink.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextLink/MTTextLink.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextLink/MTTextLink.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextLink/MTTextLink~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextLink/MTTextLink.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/TextView/MTTextView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextView/MTTextView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextView/MTTextView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextView/MTTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/TextView/MTTextView.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Thread/Queue.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Thread/Queue.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Thread/Queue.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Thread/Queue~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Thread/Queue.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/Thread/Thread.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Thread/Thread.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Thread/Thread.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Thread/Thread~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/Thread/Thread.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIApplication/MTApplication.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIApplication/MTApplication.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIApplication/MTApplication.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIApplication/MTApplication~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIApplication/MTApplication.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIColor/MTColor.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIColor/MTColor.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIColor/MTColor.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIColor/MTColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIColor/MTColor.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIControl/MTControl.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIControl/MTControl.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIControl/MTControl.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIControl/MTControl~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIControl/MTControl.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIDevice/MTDevice.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIDevice/MTDevice.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIDevice/MTDevice.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIDevice/MTDevice~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIDevice/MTDevice.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIImage/MTImage.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIImage/MTImage.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIImage/MTImage.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIImage/MTImage~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIImage/MTImage.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UINavigationController/MTNavigationController.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UINavigationController/MTNavigationController.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UINavigationController/MTNavigationController.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UINavigationController/MTNavigationController~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UINavigationController/MTNavigationController.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UISearchBar/UISearchBar.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UISearchBar/UISearchBar.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UISearchBar/UISearchBar.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UISearchBar/UISearchBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UISearchBar/UISearchBar.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIView/MTView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIView/MTView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIView/MTView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIView/MTView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIView/MTView.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIViewController/LoadingAnimation.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIViewController/LoadingAnimation.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIViewController/LoadingAnimation.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIViewController/LoadingAnimation~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIViewController/LoadingAnimation.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIViewController/MTViewController.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIViewController/MTViewController.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIViewController/MTViewController.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIViewController/MTViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIViewController/MTViewController.swiftdeps"
+  },
+  "/Users/minhtuong/Documents/MT/MiTu/Sources/MiTu/UIimageView/UIImageView.swift": {
+    "dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIimageView/UIImageView.d",
+    "object": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIimageView/UIImageView.swift.o",
+    "swiftmodule": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIimageView/UIImageView~partial.swiftmodule",
+    "swift-dependencies": "/Users/minhtuong/Documents/MT/MiTu/.build/arm64-apple-macosx/debug/MiTu.build/UIimageView/UIImageView.swiftdeps"
+  }
+}
