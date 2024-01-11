@@ -178,6 +178,20 @@ public extension PHAssetManager {
         }
     }
     
+    func requestImageURL(from asset: PHAsset, completion: @escaping(URL?) -> Void) {
+        asset.requestContentEditingInput(with: PHContentEditingInputRequestOptions()) { (editingInput, _) in
+            completion(editingInput?.fullSizeImageURL)
+        }
+    }
+    
+    func requestImageURL(from asset: PHAsset) async -> URL? {
+        return await withCheckedContinuation { continuation in
+            asset.requestContentEditingInput(with: PHContentEditingInputRequestOptions()) { (editingInput, _) in
+                continuation.resume(returning: editingInput?.fullSizeImageURL)
+            }
+        }
+    }
+    
     func requestVideoURL(from asset: PHAsset, completion: @escaping(URL?, Error?) -> Void) {
         PHImageManager.default().requestAVAsset(forVideo: asset, options: self.videoRequestOptions, resultHandler: { avasset, _, _ in
             if let avuAsset = avasset as? AVURLAsset {
