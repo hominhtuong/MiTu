@@ -178,6 +178,29 @@ public extension PHAssetManager {
         }
     }
     
+    func requestVideoURL(from asset: PHAsset, completion: @escaping(URL?, Error?) -> Void) {
+        PHImageManager.default().requestAVAsset(forVideo: asset, options: self.videoRequestOptions, resultHandler: { avasset, _, _ in
+            if let avuAsset = avasset as? AVURLAsset {
+                completion(avuAsset.url, nil)
+            } else {
+                print("cannot convert asset to avurlAsset")
+                completion(nil, MTError(title: "Something went wrong", description: "cannot convert asset to avurlAsset", code: -1))
+            }
+        })
+    }
+    
+    func requestVideoURL(from asset: PHAsset) async -> URL? {
+        return await withCheckedContinuation { continuation in
+            PHImageManager.default().requestAVAsset(forVideo: asset, options: self.videoRequestOptions, resultHandler: { avasset, _, _ in
+                if let avuAsset = avasset as? AVURLAsset {
+                    continuation.resume(returning: avuAsset.url)
+                } else {
+                    continuation.resume(returning: nil)
+                }
+            })
+        }
+    }
+    
     func requestAVAsset(for asset: PHAsset, completion: @escaping(AVAsset?, AVAudioMix?, [AnyHashable : Any]?) -> Void) {
         PHImageManager.default().requestAVAsset(forVideo: asset, options: self.videoRequestOptions, resultHandler: completion)
     }
