@@ -8,14 +8,14 @@
 import MiTu
 
 class ViewController: UIViewController {
-
+    
     
     //Variables:
     let helloButton = UIButton()
     let userNameTextField = TTextField()
     var collectionView: UICollectionView!
     var items: [String] = []
-
+    
 }
 
 extension ViewController {
@@ -54,8 +54,9 @@ extension ViewController {
                 $0.top.equalTo(userNameTextField.snp.bottom).offset(16)
                 $0.centerX.equalToSuperview()
                 $0.height.equalTo(39)
-                $0.width.equalTo(343)
+                $0.width.equalTo(helloButton.snp.height).multipliedBy(8.8)
             }
+            $0.titleLabel?.font = UIFont.boldSystemFont(ofSize: 20)
             $0.setTitle("Hello", for: .normal)
             $0.setTitleColor(.link, for: .normal)
             $0.setImage(UIImage(systemName: "bird.fill"), for: .normal)
@@ -74,6 +75,7 @@ extension ViewController {
                     let indexPath = IndexPath(item: 0, section: 0)
                     collectionView.insertItems(at: [indexPath])
                     self.userNameTextField.text = ""
+                    self.animationView()
                 }
             }
         }
@@ -96,8 +98,34 @@ extension ViewController {
             $0.delegate = self
             $0.dataSource = self
         }
-
     }
+    
+    func animationView() {
+        Task {
+            //Zoom in
+            await UIView.animate(duration: 1) {
+                self.helloButton.snp.updateConstraints {
+                    $0.height.equalTo(100)
+                }
+                self.helloButton.titleLabel?.font = UIFont.boldSystemFont(ofSize: 50)
+                self.view.layoutIfNeeded()
+            }
+            
+            await Queue.delay(2)
+            
+            //Zoom in
+            await UIView.animate(duration: 1) {
+                self.helloButton.snp.updateConstraints {
+                    $0.height.equalTo(39)
+                }
+                self.helloButton.titleLabel?.font = UIFont.boldSystemFont(ofSize: 20)
+                self.view.layoutIfNeeded()
+            }
+            
+        }
+    }
+    
+    
 }
 
 //MARK: Delegates

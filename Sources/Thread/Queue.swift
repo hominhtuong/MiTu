@@ -27,6 +27,14 @@ public class Queue {
             work()
         })
     }
+    
+    public static func delay(_ seconds: Double, queue: DispatchQueue = DispatchQueue.main) async -> Void {
+        return await withCheckedContinuation { continuation in
+            queue.asyncAfter(deadline: .now() + seconds, execute: {
+                continuation.resume()
+            })
+        }
+    }
 }
 
 #endif

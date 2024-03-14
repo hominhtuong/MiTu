@@ -9,7 +9,7 @@
 import UIKit
 
 public extension UIView {
-   func roundCorners(corners: UIRectCorner, radius: CGFloat) {
+    func roundCorners(corners: UIRectCorner, radius: CGFloat) {
         let path = UIBezierPath(roundedRect: bounds, byRoundingCorners: corners, cornerRadii: CGSize(width: radius, height: radius))
         let mask = CAShapeLayer()
         mask.path = path.cgPath
@@ -182,4 +182,21 @@ public extension UIView {
     }
 }
 
+public extension UIView {
+    static func animateStatus(duration: Double, animations: @escaping () -> Void) async -> Bool {
+        return await withCheckedContinuation { continuation in
+            UIView.animate(withDuration: duration, animations: animations, completion: { status in
+                continuation.resume(returning: status)
+            })
+        }
+    }
+    
+    static func animate(duration: Double, animations: @escaping () -> Void) async -> Void {
+        return await withCheckedContinuation { continuation in
+            UIView.animate(withDuration: duration, animations: animations, completion: { status in
+                continuation.resume()
+            })
+        }
+    }
+}
 #endif

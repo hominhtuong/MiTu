@@ -22,7 +22,7 @@ public var maxHeight: CGFloat {
 }
 
 public func currentWindow() -> UIWindow? {
-    return UIApplication.shared.windows.first
+    return (UIApplication.shared.connectedScenes.first?.delegate as? UIWindowSceneDelegate)?.window ?? UIApplication.shared.windows.first
 }
 
 public var topSafeHeight: CGFloat {

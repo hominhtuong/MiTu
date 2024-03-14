@@ -1,5 +1,5 @@
 PODS:
-  - MiTu (1.0.3)
+  - MiTu (1.0.7)
 
 DEPENDENCIES:
   - MiTu (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MiTu: ed79af55c4bf734549b7b58b6113b741bdaea337
+  MiTu: b77ecde2df9c547edc0195f67947476f3d0c2802
 
 PODFILE CHECKSUM: 86daf6071a859e6398849e459ecbb42b73a595bd
 
-COCOAPODS: 1.14.3
+COCOAPODS: 1.15.0
